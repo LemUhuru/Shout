@@ -7,4 +7,7 @@ Built off of create-react-app, it adds the following libraries:
 * React-Router
 * Redux
 * Redux Thunk
+* Axios
 * PropTypes
+* Redux-Logger
+* Redux-Devtools-Extension
