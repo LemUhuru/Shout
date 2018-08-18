@@ -1,11 +1,11 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import registerServiceWorker from './registerServiceWorker'
+import registerServiceWorker from './config/registerServiceWorker'
 import { BrowserRouter as Router } from 'react-router-dom'
 import { Provider } from 'react-redux'
 import configStore from 'configStore'
 import 'bootstrap/dist/css/bootstrap.css'
-import './index.css'
+import './styles/index.css'
 
 const store = configStore()
 
