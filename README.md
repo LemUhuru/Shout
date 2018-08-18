@@ -16,3 +16,4 @@ Built off of create-react-app, it adds the following libraries:
 * PropTypes
 * Bootstrap 4
 * Styled Components
+* Enzyme
